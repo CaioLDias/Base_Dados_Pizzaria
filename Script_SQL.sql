@@ -71,7 +71,7 @@ insert into Pizza values
 	(29, 'Doce de Leite com Figo', 2700, 'Diferenciada', 'Média', 'Caixa de papelão', 'Papelão', '30x30cm', 100),
 	(30, 'Nutella com Banana', 2800, 'Deliciosamente cremosa', 'Média', 'Caixa de papelão', 'Papelão', '30x30cm', 100);
 
--- inserindo valores na tabela alunos --
+-- inserindo valores na tabela receita --
 insert into Receita Values
 	(1, 'Molho de tomate, mussarela e manjericão fresco', 'Chef Pizza', 1),
 	(2, 'Molho de tomate, pepperoni e queijo', 'Chef Pizza', 2),
